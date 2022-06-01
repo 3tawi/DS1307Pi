@@ -4,8 +4,6 @@
 #define DS1307PICO_H
 
 #include <Arduino.h>
-#include <stdio.h>
-#include <string.h>
 
 #define SECONDS_FROM_1970_TO_2000 946684800L
 #define DS1307_I2C_ADD   0x68
