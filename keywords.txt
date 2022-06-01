@@ -1,0 +1,14 @@
+DS1307Pico		KEYWORD1
+******************
+DS1307
+*******************
+begin		        KEYWORD2
+DSadjust		KEYWORD2
+DSread			KEYWORD2
+**********************
+DSgetTime		KEYWORD2
+hour			KEYWORD2
+dayOfMonth		KEYWORD2
+month			KEYWORD2
+year			KEYWORD2
+dayOfWeek		KEYWORD2
