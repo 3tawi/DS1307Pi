@@ -1,5 +1,5 @@
-// - Lien vidéo: https://youtu.be/Hndon1lIXL0
-// - DS1307 Library: https://github.com/3tawi/DS1307Pi
+// - Lien vidéo : https://youtu.be/9XcizjmSZNY
+// - DS1307 Library : https://github.com/3tawi/DS1307Pi
 // - Getting Started Raspberry Pi Pico : https://youtu.be/KiM6-Hmxf3s
 // - Find All "Great Projects" Videos : https://www.youtube.com/c/GreatProjects
 
